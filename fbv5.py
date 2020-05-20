@@ -57,7 +57,7 @@ logo = """
 /Y　ﾚ `ーイ /
 ﾚ|　ヽ-====-＼
 ﾚヽ　/／⌒＼⌒＼
-　 ＼ｿ 　　｜　　l
+　 ＼ｿ 　　｜　1
 　　 )ヽ＿／＿／
 　 ／　　 ﾉ 
 \033[32;1m….
@@ -100,7 +100,7 @@ def siapa():
 		siapa()
 	else:
 		os.system('clear')
-		jalan("\033[1;97mSelamat datang \033[1;92m" +nama+ "\n\033[1;97mMeFR13NDS !!")
+		jalan("\033[1;97mSelamat datang \033[1;92m" +nama+ "\n\033[1;97mSAYA FR13NDS !!")
 		time.sleep(1)
 		loginSC()
 		
