@@ -10,9 +10,8 @@ $pip2 install requests
 $ls  
 $cd  spider-fb 
 $python2 spider-fb.py  
-Usernam: anak
 
-Pass: binjai
+WA bagi yg ga bisa download 085770555837
 
 Download lisensi Scriptnya disini : https://tatawirdat.blogspot.com  
 
