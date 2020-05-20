@@ -54,11 +54,11 @@ logo = """
 \033[32;1m….// (\) ),——
 \033[32;1m…//___//
 \033[32;1m../`—-’ / …
-\033[32;1m./____ / …Åhssine mohamed 🇲🇦
+\033[32;1m./____ / …FR13NDS
 \033[0;1m╔═══════════════════════════════════════════╗
-\033[0;1m║\033[33;1m* \033[34;1mGithub  \033[1;93m: \033[0;1mhttps://github.com/spider-fb  \033[1;93m                   
-\033[0;1m║\033[33;1m* \033[34;1mYT  \033[1;93m    : \033[0;1m\033[4mYotube/Android top4\033[0m \033[1;93m                  
-\033[0;1m║\033[33;1m* \033[34;1mWhatsApp  \033[1;93m : \033[0;1m\033[4m+212682934279\033[0m \033[1;93m       
+\033[0;1m║\033[33;1m* \033[34;1mGithub  \033[1;93m: \033[0;1mhttps://github.com/FR13NDS666  \033[1;93m                   
+\033[0;1m║                
+\033[0;1m║\033[33;1m* \033[34;1mWhatsApp  \033[1;93m : \033[0;1m\033[4m+6285770555837\033[0m \033[1;93m       
 \033[0;1m╚═══════════════════════════════════════════╝
 """
 
@@ -95,7 +95,7 @@ def siapa():
 		
 def loginSC():
 	os.system('clear')
-	print"\033[1;97mSilahkan login Lisensi Scriptnya dulu Lae,kalau gak tau Lisensinya,silahkan download Lisensinya di website yang barusan di Alihkan Otomatis\n"
+	print"\033[1;97mSilahkan login Lisensi Scriptnya dulu Lau,kalau gak tau Lisensinya,silahkan download Lisensinya di website yang barusan di Alihkan Otomatis\n"
 	os.system('xdg-open https://tatawirdat.blogspot.com')
         username = raw_input("\033[1;96m[*] \033[1;97mID \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
