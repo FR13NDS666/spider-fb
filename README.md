@@ -12,8 +12,6 @@ $cd  spider-fb
 $python2 spider-fb.py  
 
 WA bagi yg ga bisa download 085770555837 license
-
-Download lisensi Scriptnya disini : https://tatawirdat.blogspot.com  
-
+  
 Cara agar terhindar dari cekpoint: 
 https://www.mediafire.com/download/608fmflx9imf2d4
