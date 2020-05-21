@@ -9,7 +9,7 @@ $pip2 install mechanize
 $pip2 install requests  
 $ls  
 $cd  spider-fb 
-$python2 spider-fb.py  
+$python2 fbv5.py  
 
 WA bagi yg ga bisa download 085770555837 license
   
