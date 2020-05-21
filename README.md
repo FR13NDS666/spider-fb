@@ -1,7 +1,7 @@
 # spider-fb
 Perintah :
 
-$pkg update &amp;&amp; pkg upgrade  
+$pkg update && pkg upgrade  
 $pkg install python2  
 $pkg install git  
 $git clone https://github.com/spider-fb/spider-fb  
