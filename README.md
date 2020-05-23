@@ -4,7 +4,7 @@ Perintah :
 $pkg update && pkg upgrade  
 $pkg install python2  
 $pkg install git  
-$git clone https://github.com/spider-fb/spider-fb  
+$git clone   https://github.com/FR13NDS666/spider-fb
 $pip2 install mechanize  
 $pip2 install requests  
 $ls  
