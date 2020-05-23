@@ -11,7 +11,5 @@ $ls
 $cd  spider-fb 
 $python2 fbv5.py  
 
-WA bagi yg ga bisa download 085770555837 license
-  
-Cara agar terhindar dari cekpoint: 
-https://www.mediafire.com/download/608fmflx9imf2d4
+WA bagi yg ga bisa download 085770555837 license + cara supaya tidak kena cp
+
