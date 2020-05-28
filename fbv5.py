@@ -90,7 +90,7 @@ def siapa():
 		siapa()
 	else:
 		os.system('clear')
-		jalan("\033[SELAMAT DATANG DI SC HACK FB SEMUA KEGAGALAN TANGGUNG SENDIRI \033[" +nama+ "\n\033[SAYA FR13NDS !!")
+		jalan("\033[SELAMAT DATANG DI SC HACK FB SEMUA,KEGAGALAN TANGGUNG SENDIRI \033[" +nama+ "\n\033[SAYA FR13NDS !!")
 		time.sleep(1)
 		loginSC()
 		
@@ -102,7 +102,7 @@ def loginSC():
         username = raw_input("\033[1;96m[*] \033[1;97mID \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
 	if username =="anak" and password =="binjai":
-		print"\033[1;96m[✓] \033[1;92mLogin success"
+		print"\033[1;96m[✓] \033[1;92mLogin success sayang"
 		time.sleep(1)
 		login()
 	else:
